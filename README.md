@@ -44,7 +44,7 @@ I recently completed my **M.Sc in Data Science** from **Vellore Institute of Tec
 ## 🎓 Certifications  
 - **Accenture North America Data Analytics and Visualization Job Simulation on Forage**
 - **British Airways Data Science Job Simulation on Forage**
-- - **Selenium with Java - Udemy** 
+- **Selenium with Java - Udemy** 
 
 
 📫 **Let's Connect**  
