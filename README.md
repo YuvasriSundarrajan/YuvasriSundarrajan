@@ -1,68 +1,138 @@
-# Hi there! 👋 I'm Yuvasri Sundarrajan  
+# Yuvasri Sundarrajan
 
-## 🚀 About Me  
-I am a passionate **Data Analyst & QA Engineer**, skilled in **Power BI, SQL, Python, and Selenium**, with a strong foundation in **data visualization, business intelligence, and test automation**.  
+## Data Analyst | Power BI Developer | Business Intelligence | SQL | Python
 
-I recently completed my **M.Sc in Data Science** from **Vellore Institute of Technology (VIT)** and have hands-on experience in **data analytics, dashboard development, and automation testing**.  
+Data Analyst and Power BI Developer with hands-on experience delivering business intelligence solutions, KPI reporting, automated analytics workflows, and end-to-end data projects across operations, reporting, and analytics domains.
 
-## 🛠 Skills  
-- **Data Analytics**: Power BI, SQL, Excel (Advanced Analytics)  
-- **Programming**: Python, Java, SQL  
-- **Automation Testing**: Selenium WebDriver, TestNG  
-- **Database Management**: MySQL, SQLite  
-- **Visualization & BI Tools**: Power BI, Tableau  
-- **Soft Skills**: Analytical Thinking, Collaboration, Problem-Solving  
+Experienced in transforming raw business data into actionable insights through dashboard development, ETL automation, data modeling, SQL analytics, and stakeholder-focused reporting using Power BI, SQL, Python, and Excel.
 
-## 📊 Power BI & Data Analytics Projects  
+Currently open to opportunities in:
 
-### 📌 HR Analytics Power BI Dashboard  
-- **Designed an interactive HR dashboard** in Power BI, analyzing **attrition trends and employee satisfaction**.  
-- **Integrated multiple HR data sources**, implementing **DAX measures** for real-time workforce analytics.  
-- **Identified key attrition drivers**, improving **HR retention strategies by 20%**.  
-
-### 📌 Learning & Development Insights Power BI Dashboard  
-- **Developed a Power BI dashboard** tracking **training participation, skill enhancement, and performance impact**.  
-- **Utilized advanced DAX calculations** to measure **training effectiveness and ROI**.  
-- **Provided actionable insights**, helping HR optimize **learning programs by 25%**.  
-
-### 📌 Sales Power BI Dashboard  
-- **Created a sales analytics dashboard** visualizing **revenue trends, product performance, and regional comparisons**.  
-- **Implemented dynamic filters** for **real-time sales monitoring and forecasting**.  
-- **Optimized data models**, improving **query performance by 30%**.  
+- Data Analyst
+- Power BI Developer
+- Business Intelligence Analyst
+- Reporting Analyst
+- Analytics Engineer (Entry-Level)
 
 ---
 
-## 🔍 Software Testing & Automation Projects  
+## Core Expertise
 
-### 📌 Online Mobile Search Testing (Selenium & TestNG)  
-- **Automated online shopping website testing** using **Selenium WebDriver and TestNG framework**.  
-- **Validated search results accuracy**, ensuring correct **sorting, filtering, and pagination functionality**.  
-- **Enhanced test automation suite**, reducing **manual validation efforts by 40%**.  
+### Business Intelligence & Analytics
+- Power BI
+- DAX
+- Power Query
+- Power BI Service
+- KPI Dashboard Development
+- Self-Service Reporting
+- Business Intelligence Reporting
+- Executive Dashboards
+- Data Visualization
+- Data Storytelling
+
+### Data Analytics & Engineering
+- SQL
+- MySQL
+- Python
+- Pandas
+- NumPy
+- SQLAlchemy
+- ODBC
+- ETL Development
+- Data Extraction
+- Data Transformation
+- Data Validation
+- Data Cleaning
+
+### Data Modeling & Analysis
+- Star Schema
+- Dimensional Modeling
+- Data Warehousing
+- Query Optimization
+- Feature Engineering
+- Customer Segmentation
+- Statistical Analysis
+- Trend Analysis
+- Root Cause Analysis
+- Revenue Analytics
+
+### Microsoft Ecosystem
+- Power Apps
+- Power Automate
+- SharePoint
+- Microsoft Business Central
+- Microsoft Fabric (Learning)
+- Azure Data Factory (Learning)
 
 ---
 
-## 🎓 Certifications  
-- **Accenture North America Data Analytics and Visualization Job Simulation on Forage**
-- **British Airways Data Science Job Simulation on Forage**
-- **Selenium with Java - Udemy** 
+## Featured Project
 
+### End-to-End Sales & Customer Revenue Analytics Platform
+**MySQL | Python | SQL | Power BI | DAX | Power Query | GitHub**
 
-📫 **Let's Connect**  
-- **GitHub**: [YuvasriSundarrajan](https://github.com/YuvasriSundarrajan)  
-- **LinkedIn**: [Yuvasri Sundarrajan](www.linkedin.com/in/yuvasri-s-5b1454235)  
+Designed and developed a complete analytics engineering and business intelligence solution integrating database design, ETL processing, analytical modeling, and executive reporting.
 
-Let's connect and explore opportunities together! You can find me on [LinkedIn](linkedin.com/in/yuvasri-s-5b1454235).
+Key contributions:
+- Built relational MySQL database architecture for transactional sales analytics
+- Developed Python ETL workflows for extraction, transformation, feature engineering, and analytics processing
+- Implemented customer value scoring and risk segmentation logic
+- Designed SQL analytical views for optimized reporting consumption
+- Built interactive Power BI dashboards with KPI monitoring, drill-down analysis, slicers, and executive reporting
 
-<!--- 
-- 👋 Hi, I’m @YuvasriSundarrajan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
---->
-<!---
-YuvasriSundarrajan/YuvasriSundarrajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Business insights delivered:
+- Revenue performance tracking
+- Customer segmentation & risk analysis
+- Product performance insights
+- Payment trend analytics
+- Detailed transaction-level reporting
+
+🔗 Project Repository  
+https://github.com/YuvasriSundarrajan/end-to-end-sales-customer-analytics-platform
+
+---
+
+## Professional Experience Snapshot
+
+### Microsoft Technology Intern | BugendaiTech
+Built Microsoft ecosystem solutions including:
+- Power BI executive dashboards
+- Power Apps workflow automation
+- Business Central migration solutions
+- process automation initiatives
+
+### Associate – Data Reporting & Analytics | Sutherland
+Delivered:
+- KPI dashboards
+- self-service BI reporting
+- Power BI Service automation
+- SQL analytics
+- reporting process optimization
+
+### Program Analyst Trainee | Cognizant
+Worked on:
+- Power BI dashboards
+- SQL/Python validation workflows
+- anomaly detection
+- ETL support
+- reporting analytics
+
+---
+
+## Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) — In Progress
+- Accenture Data Analytics & Visualization Simulation
+- British Airways Data Science Simulation
+
+---
+
+## Connect
+
+**LinkedIn**  
+https://www.linkedin.com/in/yuvasri-s-data-analyst/
+
+**GitHub**  
+https://github.com/YuvasriSundarrajan
+
+**Location**  
+Chennai, India
